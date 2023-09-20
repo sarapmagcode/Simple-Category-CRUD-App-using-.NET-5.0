@@ -8,3 +8,5 @@ This project was created to familiarize myself with the manual process of buildi
 ![image](https://github.com/sarapmagcode/Simple-Category-CRUD-App-using-.NET-5.0/assets/85553852/6da66458-a8ff-4352-87cf-72eedec33bc7)
 ### Category/Delete
 ![image](https://github.com/sarapmagcode/Simple-Category-CRUD-App-using-.NET-5.0/assets/85553852/bdf5e623-d53d-4cd2-983c-3ef394ac55f3)
+### Category Table (SQL Server)
+![image](https://github.com/sarapmagcode/Simple-Category-CRUD-App-using-.NET-5.0/assets/85553852/a3d71a80-3b74-4181-9310-6fec3ce294cb)
