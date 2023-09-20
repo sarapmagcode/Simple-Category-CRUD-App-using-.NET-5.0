@@ -1,5 +1,5 @@
 # Simple-Category-CRUD-App-using-.NET-5.0
-This project was created to familiarize myself with the manual process of building ASP.NET MVC using .NET 5.0
+This project was created to familiarize myself with the manual process of building an ASP.NET MVC web application using .NET 5.0
 ### Category
 ![image](https://github.com/sarapmagcode/Simple-Category-CRUD-App-using-.NET-5.0/assets/85553852/f368331a-8f97-480d-81ac-080818b899ae)
 ### Category/Create
